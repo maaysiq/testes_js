@@ -1,0 +1,26 @@
+{
+  "name": "testes_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "testes.js",
+  "scripts": {
+    "start": "node testes.js",
+    "dev": "nodemon testes.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maaysiq/testes_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maaysiq/testes_js/issues"
+  },
+  "homepage": "https://github.com/maaysiq/testes_js#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
